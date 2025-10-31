@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"5e7d3b032a6c8a2b","type":"group","x":-520,"y":-260,"width":526,"height":260,"label":"Core"},
+		{"id":"b16d6e987c66f202","type":"group","x":-520,"y":-640,"width":505,"height":240,"label":"Movement system"},
+		{"id":"e46b0acf2d512796","type":"text","text":"[[Unity Networking|Network]]","x":-195,"y":-180,"width":180,"height":60,"color":"5"},
+		{"id":"ccf2b6b2b17bc17e","type":"text","text":"[[Player Controller|Player]] ","x":-444,"y":-240,"width":180,"height":60,"color":"6"},
+		{"id":"5b85ea1c57bce826","type":"text","text":"[[Item System]]","x":-462,"y":-80,"width":180,"height":60,"color":"3"},
+		{"id":"2c142ac88ee5c2c6","type":"text","text":"[[Enemy AI]]","x":-444,"y":-150,"width":145,"height":60,"color":"1"},
+		{"id":"ea42a091a49c9967","type":"text","text":"Risk of rain like","x":40,"y":80,"width":250,"height":60},
+		{"id":"a664a0b58d40908f","type":"text","text":"[[Characters|Hero]]","x":-500,"y":-620,"width":145,"height":60,"color":"6"},
+		{"id":"126d159f356c25f4","type":"text","text":"## [[Player Controller]]\nThey Share the same logic the system is sperate when added to a model be it hero or enemy.","x":-285,"y":-610,"width":250,"height":190},
+		{"id":"ed9ee3653bdd6aae","type":"text","text":"[[Characters|Enemy]]","x":-500,"y":-480,"width":145,"height":60,"color":"1"},
+		{"id":"3bc6d18503b01f45","type":"text","text":"### To do \n\n1. What kind of networking will be used \n2. Check videos Sent on Discord Group","x":100,"y":-420,"width":420,"height":160,"color":"5"}
+	],
+	"edges":[
+		{"id":"374e0e1e2ce9e2b2","fromNode":"ccf2b6b2b17bc17e","fromSide":"right","toNode":"e46b0acf2d512796","toSide":"left"},
+		{"id":"aaa15d8bf1c2ade3","fromNode":"5b85ea1c57bce826","fromSide":"right","toNode":"e46b0acf2d512796","toSide":"left"},
+		{"id":"8e9f27e86fdf02ea","fromNode":"ea42a091a49c9967","fromSide":"left","toNode":"5e7d3b032a6c8a2b","toSide":"bottom"},
+		{"id":"42fa5e59643ca6e8","fromNode":"126d159f356c25f4","fromSide":"left","toNode":"a664a0b58d40908f","toSide":"right"},
+		{"id":"ec702b3f9a74fa86","fromNode":"126d159f356c25f4","fromSide":"left","toNode":"ed9ee3653bdd6aae","toSide":"right"},
+		{"id":"7eb238364b1931c8","fromNode":"ccf2b6b2b17bc17e","fromSide":"left","toNode":"2c142ac88ee5c2c6","toSide":"left"},
+		{"id":"799e02b370615b58","fromNode":"2c142ac88ee5c2c6","fromSide":"left","toNode":"ccf2b6b2b17bc17e","toSide":"left"},
+		{"id":"df4087c71eceb640","fromNode":"5e7d3b032a6c8a2b","fromSide":"left","toNode":"b16d6e987c66f202","toSide":"left"},
+		{"id":"fe01c3283f4241b5","fromNode":"e46b0acf2d512796","fromSide":"right","toNode":"3bc6d18503b01f45","toSide":"left"}
+	]
+}

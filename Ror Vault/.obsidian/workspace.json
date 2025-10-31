@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "0764ef98e396a779",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2fe9a3e9e023804",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a0aefd9cbfac246",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2 - Source Materials/Books/Introduction_to_multiplayer_networking_in_Unity_e-book.pdf",
+                "page": 6,
+                "left": -15,
+                "top": 465,
+                "zoom": 1.0294117647058822
+              },
+              "icon": "lucide-file-text",
+              "title": "Introduction_to_multiplayer_networking_in_Unity_e-book"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4ba207cdb44257c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4600fa8417b7c0d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42e045465aaf1f86",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4ab611fd9d55aeab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "738923cf6b65e02d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "22ef4fd6858183f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ebee7506849e3d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "905056e843e7b1ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "1172387597d3d2e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b6c84ab4b7f9eae7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "612cf3bec9673f1a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "fd441b688958120f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "fd441b688958120f",
+  "lastOpenFiles": [
+    "2 - Source Materials/Books/Introduction_to_multiplayer_networking_in_Unity_e-book.pdf",
+    "5 - Canvases/Game dev ROR clone.canvas",
+    "2 - Source Materials/Websites, Links/Videos.md",
+    "1 - Rough Notes/Player Controller.md",
+    "1 - Rough Notes/Characters.md",
+    "1 - Rough Notes/Unity Networking.md",
+    "Enemy.md",
+    "1 - Rough Notes/Item System.md",
+    "1 - Rough Notes/Enemy AI.md",
+    "2 - Source Materials/Websites, Links/Documentation.md",
+    "2 - Source Materials/Websites, Links/Websites.md",
+    "Video. Programming for Unity's NEW Multiplayer Services API.md",
+    "1 - Rough Notes/Networking in Unity.md",
+    "_cheatsheet/cheatsheet.md",
+    "6 - Full Notes/Data Science-Probability.md",
+    "4 - Templates/Yearly Goals.md",
+    "4 - Templates/Normal Note.md",
+    "4 - Templates/Daily Notes.md",
+    "4 - Templates/Book Notes.md",
+    "3 - Indexes/Data Science.md",
+    "1 - Rough Notes/29-10-2025.md",
+    "1 - Rough Notes/2025.md",
+    "_cheatsheet/first note.md",
+    "Welcome.md"
+  ]
+}
