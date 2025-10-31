@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Plugins/Feel/MMTools/Accessories/MMMovement/MMPathMovement.meta
+guid: a81a0d0af22c3fb45818ed2f5e47b2e1
+folderAsset: yes
+timeCreated: 1483901466
+licenseType: Store
+========
+guid: 40e54a99c59a94b44b74895314b901ae
+folderAsset: yes
+>>>>>>>> cb7a153c483b08409b3888071bd3dfc377afbde7:Assets/TutorialInfo/Scripts/Editor.meta
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -14,13 +14,41 @@
               "type": "pdf",
               "state": {
                 "file": "2 - Source Materials/Books/Introduction_to_multiplayer_networking_in_Unity_e-book.pdf",
-                "page": 6,
+                "page": 8,
                 "left": -15,
-                "top": 465,
-                "zoom": 1.0294117647058822
+                "top": 366,
+                "zoom": 1.0294117647058825
               },
               "icon": "lucide-file-text",
               "title": "Introduction_to_multiplayer_networking_in_Unity_e-book"
+            }
+          },
+          {
+            "id": "9ea421f137d3af56",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://docs.unity3d.com/Manual/WhatsNewUnity6.html#multiplayer",
+                "title": "Unity - Manual: New in Unity 6.0",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Unity - Manual: New in Unity 6.0"
+            }
+          },
+          {
+            "id": "7550f16b550b1acd",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://docs.unity3d.com/6000.0/Documentation/Manual/multiplayer-center.html",
+                "title": "Unity - Manual: Use the Multiplayer Center",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Unity - Manual: Use the Multiplayer Center"
             }
           }
         ]
@@ -96,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2 - Source Materials/Books/Introduction_to_multiplayer_networking_in_Unity_e-book.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Introduction_to_multiplayer_networking_in_Unity_e-book"
             }
           },
           {
@@ -114,11 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2 - Source Materials/Books/Introduction_to_multiplayer_networking_in_Unity_e-book.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Introduction_to_multiplayer_networking_in_Unity_e-book"
             }
           },
           {
@@ -142,12 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2 - Source Materials/Books/Introduction_to_multiplayer_networking_in_Unity_e-book.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Introduction_to_multiplayer_networking_in_Unity_e-book"
             }
           },
           {
@@ -184,7 +215,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd441b688958120f",
+  "active": "3a0aefd9cbfac246",
   "lastOpenFiles": [
     "2 - Source Materials/Books/Introduction_to_multiplayer_networking_in_Unity_e-book.pdf",
     "5 - Canvases/Game dev ROR clone.canvas",
