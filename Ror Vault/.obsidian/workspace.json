@@ -11,16 +11,14 @@
             "id": "3a0aefd9cbfac246",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "2 - Source Materials/Books/Introduction_to_multiplayer_networking_in_Unity_e-book.pdf",
-                "page": 26,
-                "left": -15,
-                "top": 66,
-                "zoom": 1.0294117647058822
+                "file": "2 - Source Materials/Websites, Links/Videos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Introduction_to_multiplayer_networking_in_Unity_e-book"
+              "icon": "lucide-file",
+              "title": "Videos"
             }
           },
           {
